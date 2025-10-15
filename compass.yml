@@ -1,0 +1,13 @@
+name: Functional-Programming-in-JavaScript
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/22e3ae67-8f39-45e6-ac61-406e32f3d7f7
+description: A complete summary of functional programming in JavaScript
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
